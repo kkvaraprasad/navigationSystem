@@ -1,0 +1,18 @@
+
+		body {
+			font: 300 15px/1.5 "Helvetica Neue", helvetica, arial, sans-serif;
+			background: #EEF4F4;
+			margin: 15px;
+		}
+	
+		article{
+			width: 600px;
+			height: 250px;
+			margin: 0 auto;
+			background: #9ABFBF;
+			color: #F1F7F7;
+			border-radius: 5px;
+			box-shadow: 0 0 15px 2px #666;
+		}
+	
+		
